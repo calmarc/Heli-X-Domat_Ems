@@ -59,7 +59,7 @@
 
   <Resolution1024>false</Resolution1024>
   <Resolution2048>true</Resolution2048>
-  <Resolution4096>false</Resolution4096>
+  <Resolution4096>true</Resolution4096>
   <Resolution8192>false</Resolution8192>
   <NorthCorrection>122</NorthCorrection>
   <WindSpeed>13.3333335</WindSpeed>
