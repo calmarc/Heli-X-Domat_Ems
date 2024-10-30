@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Heli-X Topography File -->
+<!--Project:        Weesen-->
+<!--Source:         Weesen-->
+<!--Author:         TBD-->
+<!--Created:        2024-10-30 23:39:17-->
+<!--Object Name:    Bruecke-->
+<!--Vertices Count: 6-->
+<project>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-7.88,-1.64,-26.79</Point>
+    <Point>-17.53,-1.64,-23.49</Point>
+    <Point>-7.61,-1.64,-24.81</Point>
+    <Normal>0.00,1.00,-0.00</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-7.88,-1.64,-26.79</Point>
+    <Point>-17.79,-1.64,-25.47</Point>
+    <Point>-17.53,-1.64,-23.49</Point>
+    <Normal>0.00,1.00,-0.00</Normal>
+  </Triangle>
+</project>
