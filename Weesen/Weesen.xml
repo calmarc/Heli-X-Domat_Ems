@@ -1,0 +1,55 @@
+<project>
+
+  <Author>Calari von Flims</Author>
+  <Version edit="no">2024-02-11</Version>
+  <LightDir>-7,-18.3,15.5</LightDir>
+  <UseSunshine>true</UseSunshine>
+ <SunshineFactor>0.25</SunshineFactor>
+  <SunFocusFactor>2</SunFocusFactor>
+  <SunshineTimeConstant>0.2</SunshineTimeConstant>
+  <ShadowIntensity>0.65</ShadowIntensity>
+  <ShadowLambda>0.9</ShadowLambda>
+  <SunColorPercentage>100,100,100</SunColorPercentage>
+  <AmbientColorPercentage>100,100,100</AmbientColorPercentage>
+  <RhoAir>1.225</RhoAir>
+  <HeightOfEyes>1.80</HeightOfEyes>
+  <HeightOfGround>0</HeightOfGround>
+  <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
+  <CrashSensitivityFactorGroundPlane>1</CrashSensitivityFactorGroundPlane>
+  <FrictionFactorGroundPlane>10</FrictionFactorGroundPlane>
+  <ShadowOnGroundPlane>false</ShadowOnGroundPlane>
+  <TriangleSizeFactor>0.1</TriangleSizeFactor>
+  <MultiPositionName>Multi</MultiPositionName>
+  <MultiPositionCoordinates>0,0,0</MultiPositionCoordinates>
+  <MultiPositionAngle>0</MultiPositionAngle>
+  <StartPosition>-8,0,-4</StartPosition>
+  <StartPosition0>-6,0,-4</StartPosition0>
+  <StartPosition1>-0.8,0,18</StartPosition1>
+  <StartPosition2>-12.5,0,13</StartPosition2>
+  <StartPosition3>3.7,0,8.5</StartPosition3>
+  <StartPosition4>-8,0,2.8</StartPosition4>
+  <StartPosition5>-9,0,-4</StartPosition5>
+  <StartAngle>20</StartAngle>
+  <StartAngle0>72</StartAngle0>
+  <StartAngle1>-45</StartAngle1>
+  <StartAngle2>45</StartAngle2>
+  <StartAngle3>-45</StartAngle3>
+  <StartAngle4>45</StartAngle4>
+  <StartAngle5>130</StartAngle5>
+  <PlaneStartPosition>-3,0,3</PlaneStartPosition>
+  <PlaneStartAngle>-40</PlaneStartAngle>
+
+  <TopographyFile>Grund.xml</TopographyFile>
+
+  <Resolution1024>false</Resolution1024>
+  <Resolution2048>false</Resolution2048>
+  <Resolution4096>true</Resolution4096>
+  <Resolution8192>false</Resolution8192>
+  <NorthCorrection>122</NorthCorrection>
+  <WindSpeed>13.3333335</WindSpeed>
+  <WindDirectionDegree>275</WindDirectionDegree>
+  <TurbulentWindSpeed>1</TurbulentWindSpeed>
+  <WindRoughnessIndex>1</WindRoughnessIndex>
+  <WindTurbulentZIndex>0</WindTurbulentZIndex>
+  <WindActive>False</WindActive>
+</project>
