@@ -13,7 +13,7 @@
   <AmbientColorPercentage>100,100,100</AmbientColorPercentage>
   <RhoAir>1.225</RhoAir>
   <HeightOfEyes>1.80</HeightOfEyes>
-  <HeightOfGround>0</HeightOfGround>
+  <HeightOfGround>-3</HeightOfGround>
   <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
   <CrashSensitivityFactorGroundPlane>1</CrashSensitivityFactorGroundPlane>
   <FrictionFactorGroundPlane>10</FrictionFactorGroundPlane>
@@ -36,10 +36,10 @@
   <StartAngle3>-45</StartAngle3>
   <StartAngle4>45</StartAngle4>
   <StartAngle5>130</StartAngle5>
-  <PlaneStartPosition>-3,0,3</PlaneStartPosition>
-  <PlaneStartAngle>-40</PlaneStartAngle>
+  <PlaneStartPosition>0,0,0</PlaneStartPosition>
+  <PlaneStartAngle>40</PlaneStartAngle>
 
-  <TopographyFile>Grund.xml</TopographyFile>
+  <!--  <TopographyFile>Grund.xml</TopographyFile> -->
 
   <Resolution1024>false</Resolution1024>
   <Resolution2048>false</Resolution2048>
