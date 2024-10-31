@@ -3,428 +3,68 @@
 <!--Project:        Weesen-->
 <!--Source:         Weesen-->
 <!--Author:         TBD-->
-<!--Created:        2024-10-31 00:58:21-->
+<!--Created:        2024-10-31 17:03:09-->
 <!--Object Name:    Grund-->
-<!--Vertices Count: 210-->
+<!--Vertices Count: 30-->
 <project>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-80.16,5.64,-53.68</Point>
-    <Point>-40.92,4.84,10.55</Point>
-    <Point>-77.58,5.40,-55.13</Point>
-    <Normal>0.11,0.99,-0.05</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-40.92,4.84,10.55</Point>
-    <Point>-41.96,2.19,14.93</Point>
-    <Point>-39.38,1.95,13.48</Point>
-    <Normal>0.51,-0.37,0.77</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-41.96,2.19,14.93</Point>
-    <Point>-38.92,1.93,12.35</Point>
-    <Point>-39.38,1.95,13.48</Point>
-    <Normal>0.51,-0.37,0.77</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-40.36,2.17,17.79</Point>
-    <Point>-30.15,4.90,15.78</Point>
-    <Point>-38.92,1.93,12.35</Point>
-    <Normal>-0.75,-0.03,-0.66</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-38.88,5.14,20.26</Point>
-    <Point>4.16,4.29,91.29</Point>
-    <Point>-30.15,4.90,15.78</Point>
-    <Normal>0.03,0.96,-0.28</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>9.05,1.64,-8.17</Point>
-    <Point>71.35,0.80,53.75</Point>
-    <Point>30.89,1.41,-18.72</Point>
-    <Normal>-0.15,0.93,-0.34</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Point>49.51,1.03,61.31</Point>
-    <Point>9.05,1.64,-8.17</Point>
-    <Normal>-0.25,0.92,-0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-14.33,-1.00,4.61</Point>
-    <Point>31.92,-2.73,71.10</Point>
-    <Point>-8.54,-2.12,1.37</Point>
-    <Normal>-0.19,0.92,-0.35</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-25.85,2.85,11.99</Point>
-    <Point>26.13,-1.62,74.34</Point>
-    <Point>-14.33,-1.00,4.61</Point>
-    <Normal>-0.01,0.90,-0.44</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-30.15,4.90,15.78</Point>
-    <Point>14.61,2.24,80.81</Point>
-    <Point>-25.85,2.85,11.99</Point>
-    <Normal>0.08,0.91,-0.41</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>29.41,-1.56,-21.19</Point>
-    <Point>9.05,1.64,-8.17</Point>
-    <Point>30.89,1.41,-18.72</Point>
-    <Normal>-0.15,0.93,-0.34</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>7.57,-1.33,-10.64</Point>
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Point>9.05,1.64,-8.17</Point>
-    <Normal>-0.25,0.92,-0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-15.81,-3.98,2.14</Point>
-    <Point>-8.54,-2.12,1.37</Point>
-    <Point>-10.02,-5.09,-1.10</Point>
-    <Normal>-0.17,0.93,-0.33</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-27.34,-0.12,8.57</Point>
-    <Point>-14.33,-1.00,4.61</Point>
-    <Point>-15.81,-3.98,2.14</Point>
-    <Normal>-0.01,0.90,-0.43</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-38.92,1.93,12.35</Point>
-    <Point>-25.85,2.85,11.99</Point>
-    <Point>-27.34,-0.12,8.57</Point>
-    <Normal>0.04,0.91,-0.41</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>5.97,-1.31,-13.51</Point>
-    <Point>29.41,-1.56,-21.19</Point>
-    <Point>27.81,-1.54,-24.06</Point>
-    <Normal>0.16,0.94,0.31</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Point>7.57,-1.33,-10.64</Point>
-    <Point>5.97,-1.31,-13.51</Point>
-    <Normal>0.08,0.93,0.37</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Point>-10.02,-5.09,-1.10</Point>
-    <Point>-11.62,-5.07,-3.96</Point>
-    <Normal>0.18,0.94,0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-28.94,-0.10,5.70</Point>
-    <Point>-15.81,-3.98,2.14</Point>
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Normal>0.35,0.91,0.20</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-39.38,1.95,13.48</Point>
-    <Point>-27.34,-0.12,8.57</Point>
-    <Point>-28.94,-0.10,5.70</Point>
-    <Normal>0.38,0.90,0.21</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>4.43,1.59,-16.44</Point>
-    <Point>27.81,-1.54,-24.06</Point>
-    <Point>26.27,1.35,-26.99</Point>
-    <Normal>0.17,0.93,0.32</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Point>5.97,-1.31,-13.51</Point>
-    <Point>4.43,1.59,-16.44</Point>
-    <Normal>0.08,0.93,0.35</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Point>-11.62,-5.07,-3.96</Point>
-    <Normal>0.18,0.94,0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Point>-28.94,-0.10,5.70</Point>
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Normal>0.35,0.91,0.20</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-30.48,2.79,2.77</Point>
-    <Point>-39.38,1.95,13.48</Point>
-    <Point>-28.94,-0.10,5.70</Point>
-    <Normal>0.38,0.90,0.21</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-31.09,2.14,-81.11</Point>
-    <Point>26.27,1.35,-26.99</Point>
-    <Point>-10.39,1.91,-92.67</Point>
-    <Normal>0.01,1.00,0.00</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-43.97,-0.62,-78.57</Point>
-    <Point>4.43,1.59,-16.44</Point>
-    <Point>-31.09,2.14,-81.11</Point>
-    <Normal>-0.10,0.99,0.06</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-55.61,-0.50,-72.07</Point>
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-49.82,-1.62,-75.31</Point>
-    <Normal>0.01,1.00,0.00</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-67.14,3.35,-65.60</Point>
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Point>-55.61,-0.50,-72.07</Point>
-    <Normal>0.20,0.97,-0.10</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-77.58,5.40,-55.13</Point>
-    <Point>-30.48,2.79,2.77</Point>
-    <Point>-67.14,3.35,-65.60</Point>
-    <Normal>0.20,0.98,-0.10</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-49.82,-1.62,-75.31</Point>
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Point>-43.97,-0.62,-78.57</Point>
-    <Normal>-0.15,0.98,0.09</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Normal>0.02,0.92,0.39</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-11.62,-5.07,-3.96</Point>
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Normal>0.02,0.92,0.39</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Point>-8.54,-2.12,1.37</Point>
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Normal>-0.33,0.91,-0.26</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-8.54,-2.12,1.37</Point>
-    <Point>37.78,-1.73,67.84</Point>
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Normal>-0.33,0.91,-0.26</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-80.16,5.64,-53.68</Point>
-    <Point>-43.50,5.08,11.99</Point>
-    <Point>-40.92,4.84,10.55</Point>
-    <Normal>0.29,0.92,0.25</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-40.92,4.84,10.55</Point>
-    <Point>-43.50,5.08,11.99</Point>
-    <Point>-41.96,2.19,14.93</Point>
-    <Normal>0.23,0.93,0.28</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-41.96,2.19,14.93</Point>
-    <Point>-40.36,2.17,17.79</Point>
-    <Point>-38.92,1.93,12.35</Point>
-    <Normal>-0.75,-0.03,-0.66</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-40.36,2.17,17.79</Point>
-    <Point>-38.88,5.14,20.26</Point>
-    <Point>-30.15,4.90,15.78</Point>
-    <Normal>0.03,0.96,-0.28</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-38.88,5.14,20.26</Point>
-    <Point>1.58,4.53,92.73</Point>
-    <Point>4.16,4.29,91.29</Point>
-    <Normal>0.10,0.99,-0.04</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>9.05,1.64,-8.17</Point>
-    <Point>49.51,1.03,61.31</Point>
-    <Point>71.35,0.80,53.75</Point>
-    <Normal>0.01,1.00,0.00</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Point>37.78,-1.73,67.84</Point>
-    <Point>49.51,1.03,61.31</Point>
-    <Normal>-0.07,1.00,0.05</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-14.33,-1.00,4.61</Point>
-    <Point>26.13,-1.62,74.34</Point>
-    <Point>31.92,-2.73,71.10</Point>
-    <Normal>0.01,1.00,0.00</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-25.85,2.85,11.99</Point>
-    <Point>14.61,2.24,80.81</Point>
-    <Point>26.13,-1.62,74.34</Point>
-    <Normal>0.20,0.98,-0.11</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-30.15,4.90,15.78</Point>
-    <Point>4.16,4.29,91.29</Point>
-    <Point>14.61,2.24,80.81</Point>
-    <Normal>0.19,0.98,-0.10</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>29.41,-1.56,-21.19</Point>
-    <Point>7.57,-1.33,-10.64</Point>
-    <Point>9.05,1.64,-8.17</Point>
-    <Normal>-0.25,0.92,-0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>7.57,-1.33,-10.64</Point>
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Point>-2.68,-1.12,-1.89</Point>
-    <Normal>-0.33,0.91,-0.26</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-15.81,-3.98,2.14</Point>
-    <Point>-14.33,-1.00,4.61</Point>
-    <Point>-8.54,-2.12,1.37</Point>
-    <Normal>-0.19,0.92,-0.35</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-27.34,-0.12,8.57</Point>
-    <Point>-25.85,2.85,11.99</Point>
-    <Point>-14.33,-1.00,4.61</Point>
-    <Normal>-0.01,0.90,-0.44</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-38.92,1.93,12.35</Point>
-    <Point>-30.15,4.90,15.78</Point>
-    <Point>-25.85,2.85,11.99</Point>
-    <Normal>0.08,0.91,-0.41</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>5.97,-1.31,-13.51</Point>
-    <Point>7.57,-1.33,-10.64</Point>
-    <Point>29.41,-1.56,-21.19</Point>
-    <Normal>-0.17,0.92,-0.37</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Point>7.57,-1.33,-10.64</Point>
-    <Normal>-0.26,0.92,-0.30</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Point>-15.81,-3.98,2.14</Point>
-    <Point>-10.02,-5.09,-1.10</Point>
-    <Normal>-0.17,0.93,-0.33</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-28.94,-0.10,5.70</Point>
-    <Point>-27.34,-0.12,8.57</Point>
-    <Point>-15.81,-3.98,2.14</Point>
-    <Normal>-0.01,0.90,-0.43</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-39.38,1.95,13.48</Point>
-    <Point>-38.92,1.93,12.35</Point>
-    <Point>-27.34,-0.12,8.57</Point>
-    <Normal>0.04,0.91,-0.41</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>4.43,1.59,-16.44</Point>
-    <Point>5.97,-1.31,-13.51</Point>
-    <Point>27.81,-1.54,-24.06</Point>
-    <Normal>0.16,0.94,0.31</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Point>5.97,-1.31,-13.51</Point>
-    <Normal>0.08,0.93,0.37</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Point>-17.41,-3.95,-0.72</Point>
-    <Normal>0.35,0.91,0.20</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Point>-30.48,2.79,2.77</Point>
-    <Point>-28.94,-0.10,5.70</Point>
-    <Normal>0.38,0.90,0.21</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-30.48,2.79,2.77</Point>
-    <Point>-40.92,4.84,10.55</Point>
-    <Point>-39.38,1.95,13.48</Point>
-    <Normal>0.51,-0.37,0.77</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-31.09,2.14,-81.11</Point>
-    <Point>4.43,1.59,-16.44</Point>
-    <Point>26.27,1.35,-26.99</Point>
-    <Normal>0.17,0.93,0.32</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-43.97,-0.62,-78.57</Point>
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Point>4.43,1.59,-16.44</Point>
-    <Normal>0.08,0.93,0.35</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-55.61,-0.50,-72.07</Point>
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Normal>0.19,0.93,0.32</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-67.14,3.35,-65.60</Point>
-    <Point>-30.48,2.79,2.77</Point>
-    <Point>-18.95,-1.06,-3.66</Point>
-    <Normal>0.36,0.91,0.21</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-77.58,5.40,-55.13</Point>
-    <Point>-40.92,4.84,10.55</Point>
-    <Point>-30.48,2.79,2.77</Point>
-    <Normal>0.36,0.92,0.18</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-49.82,-1.62,-75.31</Point>
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-7.30,-1.18,-10.16</Point>
-    <Normal>0.02,0.92,0.39</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-13.16,-2.17,-6.90</Point>
-    <Point>-11.62,-5.07,-3.96</Point>
-    <Point>-5.77,-4.07,-7.22</Point>
-    <Normal>0.02,0.92,0.39</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-11.62,-5.07,-3.96</Point>
-    <Point>-10.02,-5.09,-1.10</Point>
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Normal>-0.32,0.91,-0.25</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-4.17,-4.09,-4.36</Point>
-    <Point>-10.02,-5.09,-1.10</Point>
-    <Point>-8.54,-2.12,1.37</Point>
-    <Normal>-0.19,0.92,-0.35</Normal>
-  </Triangle>
-  <Triangle FrictionFactor="100.0" CrashSensitivityFactor="1000" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>-8.54,-2.12,1.37</Point>
-    <Point>31.92,-2.73,71.10</Point>
-    <Point>37.78,-1.73,67.84</Point>
-    <Normal>-0.15,0.98,0.09</Normal>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-94.27,1.20,15.76</Point>
+    <Point>-3.81,-1.64,-46.41</Point>
+    <Point>-77.30,-1.18,-62.39</Point>
+    <Normal>0.01,1.00,-0.03</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-20.78,0.74,31.73</Point>
+    <Point>-0.58,-4.53,-45.62</Point>
+    <Point>-3.81,-1.64,-46.41</Point>
+    <Normal>0.35,0.94,0.05</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-17.55,-2.14,32.52</Point>
+    <Point>2.62,-4.55,-44.93</Point>
+    <Point>-0.58,-4.53,-45.62</Point>
+    <Normal>0.35,0.94,0.05</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-14.35,-2.16,33.22</Point>
+    <Point>5.45,-1.57,-44.40</Point>
+    <Point>2.62,-4.55,-44.93</Point>
+    <Normal>-0.37,0.92,-0.11</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-11.52,0.81,33.74</Point>
+    <Point>86.56,-2.07,-26.77</Point>
+    <Point>5.45,-1.57,-44.40</Point>
+    <Normal>-0.37,0.92,-0.11</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-94.27,1.20,15.76</Point>
+    <Point>-20.78,0.74,31.73</Point>
+    <Point>-3.81,-1.64,-46.41</Point>
+    <Normal>0.35,0.94,0.05</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-20.78,0.74,31.73</Point>
+    <Point>-17.55,-2.14,32.52</Point>
+    <Point>-0.58,-4.53,-45.62</Point>
+    <Normal>0.35,0.94,0.05</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-17.55,-2.14,32.52</Point>
+    <Point>-14.35,-2.16,33.22</Point>
+    <Point>2.62,-4.55,-44.93</Point>
+    <Normal>-0.37,0.92,-0.11</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-14.35,-2.16,33.22</Point>
+    <Point>-11.52,0.81,33.74</Point>
+    <Point>5.45,-1.57,-44.40</Point>
+    <Normal>-0.37,0.92,-0.11</Normal>
+  </Triangle>
+  <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
+    <Point>-11.52,0.81,33.74</Point>
+    <Point>69.59,0.31,51.37</Point>
+    <Point>86.56,-2.07,-26.77</Point>
+    <Normal>0.01,1.00,-0.03</Normal>
   </Triangle>
 </project>

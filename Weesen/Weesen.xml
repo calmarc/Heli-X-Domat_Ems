@@ -48,6 +48,8 @@
 
 <TopographyFile>Bruecke.xml</TopographyFile>
 <TopographyFile>Bruecke_oben.xml</TopographyFile>
+<TopographyFile>Baum_gross_vorne.xml</TopographyFile>
+<TopographyFile>Baum_vorne_rechts.xml</TopographyFile>
 <TopographyFile>Grund.xml</TopographyFile>
 
   <Resolution1024>false</Resolution1024>
