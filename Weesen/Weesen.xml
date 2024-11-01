@@ -29,7 +29,7 @@
 
   <TriangleSizeFactor>0.1</TriangleSizeFactor>
 
-  <StartPosition>5,5,-3</StartPosition>
+  <StartPosition>4,5,-8</StartPosition>
   <StartPosition0>-6,3,-4</StartPosition0>
   <StartPosition1>-0.8,0,18</StartPosition1>
   <StartPosition2>-12.5,0,13</StartPosition2>
@@ -50,6 +50,11 @@
 <TopographyFile>Bruecke_oben.xml</TopographyFile>
 <TopographyFile>Baum_gross_vorne.xml</TopographyFile>
 <TopographyFile>Baum_vorne_rechts.xml</TopographyFile>
+<TopographyFile>Baum_spitz.xml</TopographyFile>
+<TopographyFile>TotemPfahl.xml</TopographyFile>
+<TopographyFile>Baum_links_nahe_vor_Dings.xml</TopographyFile>
+<TopographyFile>Pflanzenkuebel_nahe.xml</TopographyFile>
+<TopographyFile>Baum_klein_vorne.xml</TopographyFile>
 <TopographyFile>Grund.xml</TopographyFile>
 
   <Resolution1024>false</Resolution1024>
