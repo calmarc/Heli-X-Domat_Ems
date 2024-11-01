@@ -17,11 +17,11 @@
   <HeightOfEyes>1.80</HeightOfEyes>
 
   <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
+  <ShadowOnGroundPlane>false</ShadowOnGroundPlane>
   <!-- 
    <HeightOfGround>-3</HeightOfGround>
    <CrashSensitivityFactorGroundPlane>1</CrashSensitivityFactorGroundPlane>
    <FrictionFactorGroundPlane>10</FrictionFactorGroundPlane>
-   <ShadowOnGroundPlane>true</ShadowOnGroundPlane>
   <PlaneStartPosition>20,4,-20</PlaneStartPosition>
   <PlaneStartAngle>10</PlaneStartAngle>
   -->
