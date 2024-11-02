@@ -55,6 +55,9 @@
 <TopographyFile>Baum_links_nahe_vor_Dings.xml</TopographyFile>
 <TopographyFile>Pflanzenkuebel_nahe.xml</TopographyFile>
 <TopographyFile>Baum_klein_vorne.xml</TopographyFile>
+<TopographyFile>Kuebel.xml</TopographyFile>
+<TopographyFile>Baum_Gruppe_vorne.xml</TopographyFile>
+<TopographyFile>Baum_Glarus.xml</TopographyFile>
 <TopographyFile>Grund.xml</TopographyFile>
 
   <Resolution1024>false</Resolution1024>
