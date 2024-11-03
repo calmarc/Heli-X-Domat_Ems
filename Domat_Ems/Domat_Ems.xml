@@ -14,15 +14,15 @@
   <AmbientColorPercentage>100,100,100</AmbientColorPercentage>
   <RhoAir>1.225</RhoAir>
   <HeightOfEyes>1.80</HeightOfEyes>
-  <!--
-  <UseStandardHeightOfGroundPlane>false</UseStandardHeightOfGroundPlane>
-  <HeightOfGround>0</HeightOfGround>
+
+  <UseStandardHeightOfGroundPlane>True</UseStandardHeightOfGroundPlane>
+  <ShadowOnGroundPlane>True</ShadowOnGroundPlane>
+  <HeightOfGround>-0.4</HeightOfGround>
   <CrashSensitivityFactorGroundPlane>1</CrashSensitivityFactorGroundPlane>
   <FrictionFactorGroundPlane>10</FrictionFactorGroundPlane>
-  <ShadowOnGroundPlane>false</ShadowOnGroundPlane>
-  <PlaneStartPosition>-3,0,3</PlaneStartPosition>
-  <PlaneStartAngle>-40</PlaneStartAngle>
--->
+  <PlaneStartPosition>0,0,0</PlaneStartPosition>
+  <PlaneStartAngle>0</PlaneStartAngle>
+
   <TriangleSizeFactor>0.1</TriangleSizeFactor>
   <StartPosition>-8,0,-4</StartPosition>
   <StartAngle>20</StartAngle>
@@ -48,7 +48,7 @@
   <TopographyFile>Baum_vor_Clubhaus.xml</TopographyFile>
   <TopographyFile>Clubhaus_mit_Baum.xml</TopographyFile>
   <TopographyFile>Fass.xml</TopographyFile>
-  <TopographyFile>Grund.xml</TopographyFile>
+  <!--  <TopographyFile>Grund.xml</TopographyFile> -->
   <TopographyFile>Haltestelle.xml</TopographyFile>
   <TopographyFile>Scheinwerfer.xml</TopographyFile>
   <TopographyFile>Terrain_Strasse.xml</TopographyFile>

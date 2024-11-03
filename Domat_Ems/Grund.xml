@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!--Heli-X Topography File -->
-<!--Project:        blender-->
-<!--Source:         blender-->
+<!--Project:        calmar-->
+<!--Source:         calmar-->
 <!--Author:         TBD-->
-<!--Created:        2024-10-24 11:08:50-->
+<!--Created:        2024-11-03 11:34:13-->
 <!--Object Name:    Grund-->
 <!--Vertices Count: 6-->
 <project>
   <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>500.00,0.00,500.00</Point>
-    <Point>-500.00,0.00,-500.00</Point>
-    <Point>-500.00,0.00,500.00</Point>
+    <Point>400.00,-0.53,400.00</Point>
+    <Point>-400.00,-0.53,-400.00</Point>
+    <Point>-400.00,-0.53,400.00</Point>
     <Normal>0.00,1.00,-0.00</Normal>
   </Triangle>
   <Triangle FrictionFactor="1.00" CrashSensitivityFactor="1.00" Thickness="0.00" Alpha="1.0000" MakeCrashObject="True" ShadowReceiver="True" CeilingType="False" GroundType="True">
-    <Point>500.00,0.00,500.00</Point>
-    <Point>500.00,0.00,-500.00</Point>
-    <Point>-500.00,0.00,-500.00</Point>
+    <Point>400.00,-0.53,400.00</Point>
+    <Point>400.00,-0.53,-400.00</Point>
+    <Point>-400.00,-0.53,-400.00</Point>
     <Normal>0.00,1.00,-0.00</Normal>
   </Triangle>
 </project>
